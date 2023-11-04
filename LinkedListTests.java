@@ -16,4 +16,4 @@ public class LinkedListTests {
     assertArrayEquals(new int[]{1,0}, ArrayExamples.reversed(input1));
   }
 }
-}
+
